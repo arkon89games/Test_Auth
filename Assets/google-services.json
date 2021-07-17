@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976251932605",
+    "project_id": "test-auth-1fa89",
+    "storage_bucket": "test-auth-1fa89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976251932605:android:8d8d62ff94bf10e59e0cd4",
+        "android_client_info": {
+          "package_name": "com.Arkon89.Test_Auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976251932605-7ieascq1p438sb1a1svnkuc4i7834hsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLh_UJZNCkzVaXoEDxRrTQmGk8VZauJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976251932605-7ieascq1p438sb1a1svnkuc4i7834hsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
